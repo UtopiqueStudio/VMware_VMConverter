@@ -1,0 +1,8 @@
+O:\Projects\VMConverter\Utopique VMConverter\Utopique VMConverter\bin\Debug\Utopique VMConverter.exe.config
+O:\Projects\VMConverter\Utopique VMConverter\Utopique VMConverter\obj\Debug\Utopique VMConverter.csprojResolveAssemblyReference.cache
+O:\Projects\VMConverter\Utopique VMConverter\Utopique VMConverter\bin\Debug\Utopique VMConverter.exe
+O:\Projects\VMConverter\Utopique VMConverter\Utopique VMConverter\bin\Debug\Utopique VMConverter.pdb
+O:\Projects\VMConverter\Utopique VMConverter\Utopique VMConverter\obj\Debug\Utopique VMConverter.exe
+O:\Projects\VMConverter\Utopique VMConverter\Utopique VMConverter\obj\Debug\Utopique VMConverter.pdb
+O:\Projects\VMConverter\Utopique VMConverter\Utopique VMConverter\bin\Debug\ConverterSDKStub.dll
+O:\Projects\VMConverter\Utopique VMConverter\Utopique VMConverter\bin\Debug\ConverterSDKStub.XmlSerializers.dll
